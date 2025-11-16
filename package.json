@@ -11,7 +11,7 @@
     "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
-    "react-scripts": "3.3.0",
+    "react-scripts": "5.0.1",
     "reactstrap": "^8.2.0"
   },
   "scripts": {
@@ -37,6 +37,6 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.2"
+    "mocha": "^11.7.5"
   }
 }
